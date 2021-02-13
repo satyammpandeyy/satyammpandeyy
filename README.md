@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey There 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FC5570" alt="FC5570" /> </p>
 
-<!--
-**sp-sketch/sp-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Check The Projects that Are currently Runned by me https://top.gg/user/702734427419181096
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on alex bot https://top.gg/bot/744228185994035221
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I Will Be  not responding on fridays (may be i reply)
+
+- 📫 How to reach me: Discord: Sp࿐#3972
+
+
+![Sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-sketch&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FC5570&layout=compact&theme=radical">
+
