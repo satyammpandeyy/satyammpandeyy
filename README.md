@@ -7,7 +7,7 @@
 
 - 💬 I Will Be  not responding on fridays (may be i reply)
 
-- 📫 How to reach me: Discord: Sp࿐#3972
+- 📫 How to reach me? dm Me At discord 
 
 
 ![Sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-sketch&show_icons=true&theme=radical)
