@@ -1,11 +1,10 @@
 ### Hey There 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FC5570" alt="FC5570" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FC5570" alt="sp-sketch" /> </p>
 
-- 🔭 I’m currently working on Check The Projects that Are currently Runned by me https://top.gg/user/702734427419181096
+- 🔭 I’m currently working on a top secrect project
+- 🌱 I’m currently at my home town
 
-- 🌱 I’m currently working on alex bot https://top.gg/bot/744228185994035221
-
-- 💬 I Will Be  not responding on fridays (may be i reply)
+- 💬 I Will Be  not responding on sundays (may be i reply)
 
 - 📫 How to reach me? dm Me At discord 
 
