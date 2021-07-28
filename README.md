@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on a top secrect project
-- 🌱 I’m Of 15 accctauly 
-- 💬 Im Have Expreince Of Coding from august 2020 but im expert of nodejs
+
 
 - 📫 I Have No Open Source Repos For My Projects 😏
 
