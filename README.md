@@ -1,7 +1,9 @@
 ### Hello World 👋
 
 
-Hi
+🥀 Self Learnt Javascript Developer
+🌻 Contributer of many Projects
+💀 Idk anything else about me
 
 
 
