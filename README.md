@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 
-🥀 Self Learnt JavaScript Developer Owner of Soul development studios which owns many bots & Royal Developement 
+🥀 Self Learnt JavaScript Developer Owner of Soul development studios which owns many bots & Parent Company of Royal Developement 
 
 
 
