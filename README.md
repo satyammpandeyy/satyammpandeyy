@@ -1,9 +1,7 @@
 ### Hello World 👋
 
 
-🥀 Self Learnt Javascript Developer
-🌻 Contributer of many Projects
-💀 Idk anything else about me
+🥀 Self Learnt JavaScript Developer Owner of Soul development studios which owns mnay bots & development company 
 
 
 
