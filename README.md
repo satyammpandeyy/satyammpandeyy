@@ -10,6 +10,7 @@ Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
 
 75% of my projects are open source :heart: 
 
+Pokesoul -
 
 ### Skills & Tools 🖱️
 
@@ -18,7 +19,7 @@ I love discovering languages or frameworks that increase my productivity for my 
 
 ### Contact me 🤝
 
-I'm available on My Discord Server 
+I'm available Discord My Discord Is Sctrz#3113 
 
 
 
