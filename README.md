@@ -10,12 +10,11 @@ Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
 
 75% of my projects are open source :heart: 
 
-Pokesoul -
+Pokesoul - https://github.com/sp-sketch/pokesoul/
 
 ### Skills & Tools 🖱️
 
 I like NodeJs, and i often use MongoDB 
-I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord 😁
 
 ### Contact me 🤝
 
