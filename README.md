@@ -4,7 +4,7 @@
 
 Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
 
-
+I Own Soul Studios ™ Which is owner of many discord bots & many more development teams like Royal development. etc
 
 ### Projects ✨
 
