@@ -8,7 +8,7 @@ I Own Soul Studios ™ Which is owner of many discord bots & many more developme
 
 ### Projects ✨
 
-75% of my projects are open source :heart: 
+32% of my projects are open source :heart: 
 
 Pokesoul - https://github.com/sp-sketch/pokesoul/
 
