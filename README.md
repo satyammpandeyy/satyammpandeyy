@@ -16,7 +16,7 @@ Pokesoul - https://github.com/sp-sketch/pokesoul/
 
 I like NodeJs, and i often use MongoDB 
 fell free to ask me about pterodactyl panel stuff
-I aslo have knowledge of javascript,python,java, typescript,c++ and Brainfuck
+I aslo have knowledge of javascript,python,java,typescript,c++, c# and Brainfuck
 I like To talk about hardware, software and Operating System stuffs
 
 ### Contact me 🤝
