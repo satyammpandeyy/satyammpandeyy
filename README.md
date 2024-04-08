@@ -1,7 +1,7 @@
 ### 🤞 I'm a self-taught passionate fullstack developer from India 🇮🇳
 
 ### Hey There 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp-sketch" alt="sp-sketch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammpandeyy" alt="satyammpandeyy" /> </p>
 
 Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
 
@@ -10,7 +10,7 @@ Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
 
 50% of my projects are open source :heart: 
 
-Pokesoul - https://github.com/sp-sketch/pokesoul/
+Pokesoul - https://github.com/satyammpandeyy/pokesoul/
 
 ### Skills & Tools 🖱️
 
@@ -23,8 +23,8 @@ I like To talk about hardware, software and Operating System stuffs
 I'm available Discord My Discord Is Satyamm
 
 
-![Sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-sketch&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-sketch&layout=compact&theme=radical">
+![Sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyammpandeyy&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyammpandeyy&layout=compact&theme=radical">
 
 
 
