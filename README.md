@@ -10,7 +10,7 @@ Welcome to my page! I'm Satyam Pandey, a code-addicted student
 
 50% of my projects are open source :heart: 
 Some of those examples are ->
-Pokesoul - https://github.com/satyammpandeyy/pokesoul/
+Pokesoul - https://github.com/satyammpandeyy/pokemon-bot/
 
 ### Skills & Tools 🖱️
 
