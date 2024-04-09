@@ -21,6 +21,7 @@ I like To talk about hardware, software and Operating System stuffs
 ### Contact me 🤝
 
 I'm available Discord My Discord Is Satyamm
+yeah ofc i spend my whole day sitting besides computer screen
 
 
 ![Sp's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyammpandeyy&show_icons=true&theme=radical)
