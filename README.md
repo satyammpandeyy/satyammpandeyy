@@ -1,15 +1,15 @@
-### 🤞 I'm a self-taught passionate fullstack developer from India 🇮🇳
+### 🤞 I'm a self-taught passionate fullstack developer 
 
 ### Hey There 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammpandeyy" alt="satyammpandeyy" /> </p>
 
-Welcome to my page! I'm Satyam Pandey, a code-addicted student from India
+Welcome to my page! I'm Satyam Pandey, a code-addicted student 
 
 
 ### Projects ✨
 
 50% of my projects are open source :heart: 
-
+Some of those examples are ->
 Pokesoul - https://github.com/satyammpandeyy/pokesoul/
 
 ### Skills & Tools 🖱️
